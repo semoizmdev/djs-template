@@ -1,4 +1,4 @@
-# Sıfırdan Discord.JS v13 Dersleri
+# Discord V13 Context Bot Template
 - [Discord Sunucum](https://discord.gg/rabel)
 - [Gweep Creative Youtube](https://youtube.com/GweepCreativeOfficial)
 - [Ders Oynatma Listesi](https://www.youtube.com/playlist?list=PLh0_Cl_pAN63tTx8Yw3J0IVuVDuo9ogi8)
